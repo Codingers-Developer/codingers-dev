@@ -94,9 +94,9 @@ const LandingPageTemplate = () => {
         </Section>
         <Section>
           <Container className={styles.textContainer}>
-            <H2>Final steps</H2>
+            <H2>This Is Us</H2>
             <Paragraph>
-              There are a few final steps that we were not able to perform
+              We are a student at Garut Institute Of Technoloy Computer Science few final steps that we were not able to perform
               automatically. We have provided a complete list for you in the{" "}
               <InlineCode>README.md</InlineCode> file. You should take care of
               these before you can start developing your project.
