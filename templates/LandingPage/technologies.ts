@@ -105,10 +105,6 @@ export const technologies: Technology[] = [
       "Textnya",
     links: [
       {
-        title: "Website",
-        url: "/",
-      },
-      {
         title: "Instagram",
         url: "/",
       },
