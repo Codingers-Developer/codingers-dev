@@ -10,8 +10,12 @@ export const technologies: Technology[] = [
   {
     name: "Zefri Fahlevi Irdiansyah",
     description:
-      "Textnya",
+      "Hello there, my full name is Zefri Fahlevi Irdiansyah, and people who's know me call me Zefri. For now, I live in Garut, West Java and I am a student majoring in Informatics Engineering, Garut Institut of Technology (ITG). I Love make something that useful for the others like make an application website and I'm prefer in Frontend website development using ReactJS or Next Js, and until now, I'm still learning, because everyday the technologies is continues to develop.",
     links: [
+      {
+        title: "Website",
+        url: "https://zefrifahlevi1.vercel.app/",
+      },
       {
         title: "Instagram",
         url: "https://www.instagram.com/zefrifahlevi/",
@@ -37,15 +41,11 @@ export const technologies: Technology[] = [
       },
       {
         title: "Instagram",
-        url: "/",
-      },
-      {
-        title: "Twitter",
-        url: "/",
+        url: "https://www.instagram.com/a.ahmaadn",
       },
       {
         title: "Github",
-        url: "/",
+        url: "https://github.com/ahmaadn",
       },
     ],
   },
@@ -59,12 +59,8 @@ export const technologies: Technology[] = [
         url: "https://www.instagram.com/yoga0_120",
       },
       {
-        title: "Twitter",
-        url: "/",
-      },
-      {
         title: "GitHub",
-        url: "/",
+        url: "https://github.com/yoga220802",
       },
     ],
   },
@@ -73,21 +69,18 @@ export const technologies: Technology[] = [
     description:
       "Textnya",
     links: [
-      {
-        title: "Website",
-        url: "/",
-      },
+
       {
         title: "Instagram",
-        url: "/",
+        url: "https://www.instagram.com/_mhmdhkll",
       },
       {
         title: "Twitter",
-        url: "/",
+        url: "https://twitter.com/heikalhikmah",
       },
       {
         title: "GitHub",
-        url: "/",
+        url: "https://github.com/mhmdhkl",
       },
     ],
   },
@@ -97,20 +90,12 @@ export const technologies: Technology[] = [
       "Textnya",
     links: [
       {
-        title: "Website",
-        url: "/",
-      },
-      {
         title: "Instagram",
-        url: "/",
-      },
-      {
-        title: "Twitter",
-        url: "/",
+        url: "https://www.instagram.com/dhika.remove",
       },
       {
         title: "GitHub",
-        url: "/",
+        url: "https://github.com/Shoutaa",
       },
     ],
   },
