@@ -7,7 +7,7 @@ const Index: NextPage = () => {
     <>
       <Head>
         <title>Codingers-Developer</title>
-        <meta name="description" content="Codingers-Dev Web" />
+        <meta name="description" content="Codingers-Dev Web Page" />
       </Head>
       <LandingPageTemplate />
     </>
