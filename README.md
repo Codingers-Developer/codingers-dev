@@ -1,6 +1,9 @@
 # my-app
+after cloning, dont forget to install:
 
-🎉 Congratulations, your project was successfully generated with [Create Next Stack](https://www.create-next-stack.com/)!
+```bash
+yarn install
+```
 
 To get started, run:
 
