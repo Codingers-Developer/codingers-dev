@@ -44,7 +44,7 @@ export const technologies: Technology[] = [
   {
     name: "Yoga Agustiansyah",
     description:
-      "**Development**",
+      "Saya adalah Yoga Agustiansyah, seorang pria yang sangat antusias dalam dunia pemrograman. Saya memiliki pengalaman luas dalam beberapa bahasa pemrograman seperti JavaScript, TypeScript, Dart, Go, dan Python. Keahlian saya terutama berfokus pada pengembangan aplikasi seluler, di mana saya telah berhasil menggunakan Flutter dan React Native untuk menciptakan aplikasi yang menakjubkan. Saya juga memiliki keahlian dalam pengembangan web front-end menggunakan React JS. Saat ini, saya sedang dalam proses belajar yang intensif untuk memperdalam pengetahuan saya tentang teknologi seperti React Native, Flutter, React, Node JS, Golang, Python, HTML 5, dan CSS. Saya sangat bersemangat untuk terus mengembangkan keterampilan saya dalam pengembangan aplikasi seluler dan web front-end, dan saya juga memiliki ketertarikan yang kuat dalam mempelajari dan mengembangkan keahlian dalam pengembangan back-end.",
     links: [
       {
         title: "Instagram",
