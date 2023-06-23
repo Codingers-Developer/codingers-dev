@@ -13,20 +13,16 @@ export const technologies: Technology[] = [
       "Textnya",
     links: [
       {
-        title: "Website",
-        url: "/",
-      },
-      {
         title: "Instagram",
-        url: "/",
+        url: "https://www.instagram.com/zefrifahlevi/",
       },
       {
         title: "Twitter",
-        url: "/",
+        url: "https://twitter.com/zefrifahlevii",
       },
       {
         title: "GitHub",
-        url: "/",
+        url: "https://github.com/zefrifahlevi",
       },
     ],
   },
@@ -59,12 +55,8 @@ export const technologies: Technology[] = [
       "Textnya",
     links: [
       {
-        title: "Website",
-        url: "/",
-      },
-      {
         title: "Instagram",
-        url: "/",
+        url: "https://www.instagram.com/yoga0_120",
       },
       {
         title: "Twitter",
