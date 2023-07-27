@@ -1,4 +1,4 @@
-# my-app
+# Website
 after cloning, dont forget to install:
 
 ```bash
