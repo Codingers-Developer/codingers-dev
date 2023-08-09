@@ -1,5 +1,5 @@
 import Script from "next/script";
-import styles from "./LandingPageTemplate.module.css";
+import styles from "./LandingPage.module.css";
 import { Container } from "./components/Container";
 import { InlineCode } from "./components/InlineCode";
 import { Link } from "./components/Link";

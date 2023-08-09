@@ -1,6 +1,6 @@
 import { NextPage } from "next";
 import Head from "next/head";
-import LandingPageTemplate from "../templates/LandingPage/LandingPageTemplate";
+import LandingPage from "../templates/LandingPage/LandingPage";
 
 const Index: NextPage = () => {
   return (
@@ -9,7 +9,7 @@ const Index: NextPage = () => {
         <title>Codingers-Developer</title>
         <meta name="description" content="Codingers-Dev Web Page" />
       </Head>
-      <LandingPageTemplate />
+      <LandingPage />
     </>
   );
 };
